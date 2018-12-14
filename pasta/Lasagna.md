@@ -14,7 +14,7 @@ From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 1/2 tsp sugar
 (Optionally) 150-200 ml red wine
 One pack of lasagne sheet
-1.5 pints (850 ml) béchamel sauce
+**1.5 pints (850 ml) béchamel sauce**
 Finely grated parmesan
 Equipment
 One small pan for the bechamel sauce (preferably non-stick)
